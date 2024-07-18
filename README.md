@@ -1,1 +1,1 @@
-CHAPTER-4/Q4_9_2.py
+CHAPTER4/Q4_9_2.py
