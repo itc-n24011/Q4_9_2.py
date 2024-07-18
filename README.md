@@ -1,15 +1,4 @@
 # Q4_9_2.py
-import os
-import sys
-
-MAX_VALUE = 2
-
-print(sys.getdefaultencoding())
-print(os.path.basename(os.getcwd()))
-
-for i in range(3):
-    print(i, end=" ")
-    if MAX_VALUE > i:
-        print(MAX_VALUE)
-    else:
-        print("#")
+インポート文を分離。
+定数をすべて大文字で命名 (MAX を MAX_VALUE に変更)。
+不要
